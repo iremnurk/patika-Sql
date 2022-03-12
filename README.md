@@ -1,2 +1,2 @@
 # patika-Sql
-Kodluyoruz "Veri Yapıları ve Algoritmalar" patikası ödevlerini içerir.
+Kodluyoruz "SQL" patikası ödevlerini içerir.
